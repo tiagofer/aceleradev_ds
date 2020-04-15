@@ -111,3 +111,7 @@ dataframe.drop(columns='nova_coluna', inplace=True)
 dataframe
 
 # %%
+aux = dataframe.pivot(index='canal_vendas',columns='site',values='acessos').fillna(0)
+
+# %%
+aux.melt(id_vars='canal_venda',value_vars=['site1','site2','site3'])
