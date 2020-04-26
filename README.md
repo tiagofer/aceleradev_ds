@@ -4,8 +4,8 @@ Este repositório será utilizado para gerenciar as aplicações desenvolvidas d
 
 ## Controle dos módulos já desenvolvidos
 - [X]Módulo 01 - Introdução a Ciência de Dados
-- [ ]Módulo 02 - Pré-processamento de Dados em Python
-- [ ]Módulo 03 - Análise de dados exploratória
+- [X]Módulo 02 - Pré-processamento de Dados em Python
+- [X]Módulo 03 - Análise de dados exploratória
 - [ ]Módulo 04 - Continuação Análise de dados exploratória
 - [ ]Módulo 05 - Pensamento estatístico em Python
 - [ ]Módulo 06 - Continuação Pensamento estatístico em Python
