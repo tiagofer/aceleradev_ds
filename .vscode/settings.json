@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/tiagoferreira/opt/anaconda3/envs/modulo_dois/bin/python"
+    "python.pythonPath": "modulo_04/bin/python",
+    "git.ignoreLimitWarning": true
 }
